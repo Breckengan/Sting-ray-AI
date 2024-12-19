@@ -1,4 +1,4 @@
-# Game Bot
+# sting ray AI
 ### By Brecken Gannon
 
 Artificial intelligence that learns to play any game by watching you.
