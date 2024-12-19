@@ -1,11 +1,11 @@
 # Game Bot
-### By Arda Mavi
+### By Brecken Gannon
 
 Artificial intelligence that learns to play any game by watching you.
 
 ## How does this work?
-- First: Run program and play any game for a little bit.
-- Second: Run program and watch the artificial intelligence play the game.
+- First: Run program and play any game for a little bit so it can learn.
+- Second: Run program and watch the artificial intelligence play the game copying how you play.
 
 ## How does it work behind the scenes?
 When you run the training program, the program listens for your keyboard and mouse moving, then it saves those movements.<br>
@@ -13,7 +13,6 @@ Artificial intelligence learn: When I push any button?<br/>
 And when you run the program, it plays the game just like you!
 
 ## But how does it learn?
-##### Magic! (just joking)
 With deep learning.<br/>
 Deep Learning is a subfield of machine learning with neural networks inspired by the structure of the brains artificial neural networks.
 
